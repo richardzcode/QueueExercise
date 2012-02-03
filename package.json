@@ -1,0 +1,8 @@
+{
+    "name": "mongo_lab"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+    "mongodb": ">= 0.9.7-1.4"
+  }
+}
